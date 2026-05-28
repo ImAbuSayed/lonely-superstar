@@ -13,9 +13,9 @@
 | **Title** | Lonely Superstar |
 | **Written By** | [Abu Sayed](https://abusayed.com.bd/) |
 | **Written On** | May 18, 2026 |
-| **Song Page** | [Open Song Page](https://imabusayed.github.io/lonely-superstar/) |
+| **Song Page** | Pending |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Music Rights & Licensing for Lonely Superstar](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/lonely-superstar/) |
+| **Get License** | [Get a Licensing Quote for Lonely Superstar](https://music.abusayed.com.bd/Licensing/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -32,7 +32,10 @@
 
 ## 📝 Lyric Preview
 
-> [Excerpt will appear here after the final lyric is saved.]
+> Kalla main sitara aasmaan da shine karda bright
+> Hanere es sahan vich labhda main light
+> Chup chap takda haan tenu baby girl
+> Tu hi meri zindagi tu hi mera world
 > ...
 
 [**View Full Lyrics**](./lyrics.txt) | [**View Metadata**](./manifest.json) | [**View Proofs**](./hashes.txt)
@@ -108,7 +111,7 @@ This song is an original creative work by Abu Sayed. All lyrics, melody, and com
 | **Author** | Abu Sayed |
 | **Version** | `v1` |
 | **SHA-256 Hash** | `N/A` |
-| **Timestamp** | May 19, 2026 |
+| **Timestamp** | May 29, 2026 |
 
 See [LICENSE.md](./LICENSE.md) for full terms and conditions.
 
