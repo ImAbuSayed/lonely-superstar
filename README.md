@@ -15,7 +15,7 @@
 | **Written On** | May 18, 2026 |
 | **Song Page** | Pending |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Get a Licensing Quote for Lonely Superstar](https://music.abusayed.com.bd/Licensing/) |
+| **Get License** | [Get License For Lonely Superstar](https://music.abusayed.com.bd/Licensing/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -110,7 +110,7 @@ This song is an original creative work by Abu Sayed. All lyrics, melody, and com
 |:-------------------|:------------|
 | **Author** | Abu Sayed |
 | **Version** | `v1` |
-| **SHA-256 Hash** | `N/A` |
+| **SHA-256 Hash** | `28de246a283ae48d390f016567d9d7ddfffc76b526be9c8345aef35098472122` |
 | **Timestamp** | May 29, 2026 |
 
 See [LICENSE.md](./LICENSE.md) for full terms and conditions.
